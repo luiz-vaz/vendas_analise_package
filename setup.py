@@ -8,7 +8,7 @@ def read_file(filename):
 
 setup(
     name='vendas_analise',
-    version='0.0.2',
+    version='0.0.1',
     packages=find_packages(),
     description='Um pacote para análise de vendas',
     long_description=read_file('README.md'),
